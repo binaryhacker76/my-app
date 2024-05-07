@@ -1,0 +1,28 @@
+/* style={{background:'#C7C6CD',boxShadow:'rgb(38, 57, 77) 0px 20px 30px -10px'}} */
+
+.myproductcard{
+    border-radius: 14px;
+    background-color: rgb(126, 189, 189);
+    box-shadow:rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.myproductcard button{
+    background-color: rgb(27, 41, 232);
+    width: 100%;
+    color:white;
+    border-radius: 3px;
+    
+    font-family: fantasy;
+  
+
+}
+
+.myproductcard:hover button{
+    background-color: rgb(244, 14, 14);
+    transition: 1s;
+
+}
+.myproductcard:hover{
+    box-shadow: rgb(87, 17, 17) 0px 22px 70px 4px;
+    /* background-color: rgb(15, 37, 145); */
+    /* box-shadow:rgb(13, 19, 90) 0px 20px 30px -10px; */
+}

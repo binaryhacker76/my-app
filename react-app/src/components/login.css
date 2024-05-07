@@ -1,0 +1,63 @@
+ .log{
+ position: absolute;
+ top:25%;
+ left: 35%;;
+ text-decoration: none;
+ font-family: fantasy;
+ color: aliceblue;
+ background-color: rgb(61, 61, 184);
+ padding: 13px;
+ border-radius: 7px;
+
+
+}
+.logincontainer h5{
+
+    color: rgb(234, 234, 244);
+ 
+    font-family: fantasy;
+    }
+    .logincontainer:hover h5{
+        color: rgb(22, 19, 58);
+
+    }
+
+.log:hover{
+    color: black;
+    background-color: rgb(32, 108, 108);
+
+}
+.logincontainer {
+    background-color: rgb(15, 44, 126);
+    border-radius: 7px;
+    position: absolute;
+    top:33%;
+    left: 40%;
+    box-shadow: rgba(0, 0, 78, 0.35) 1px 7px 15px;
+
+}
+
+.logincontainer:hover{
+    box-shadow: rgba(218, 0, 33, 0.56) 0px 22px 70px 4px;
+    background-color: rgb(24, 138, 138);
+}
+.sig{
+    background-color: rgb(26, 84, 210);
+    color: aliceblue;
+    padding: 8px;
+    border-radius: 7px;
+    text-decoration: none;
+}
+.sig:hover{
+    background-color: rgb(14, 204, 201);
+color: rgb(0, 55, 206);
+transition: 0.5s;
+}
+
+.logincontainer h3{
+
+color: aliceblue;
+text-align: center;
+
+font-family: fantasy;
+}

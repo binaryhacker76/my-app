@@ -1,0 +1,80 @@
+.icons {
+    font-size: 32px;
+    height: 32px;
+    width: 32px;
+    color: #ddd;
+    cursor: pointer;
+}
+.card{
+    border-radius: 0px 3px 3px 0px solid bulue;
+    padding-bottom: 1px;
+    margin:48px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #c4c4c4;
+    
+}
+.card:hover{
+    border-radius: 0px 3px 3px 0px solid bulue;
+    padding-bottom: 1px;
+    margin:48px;
+    box-shadow: rgb(140, 13, 9) 0px 20px 30px -10px;
+    /* box-shadow: rgba(0, 0, 253, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px; */
+    background-color: #297684;
+    cursor: pointer;
+    
+}
+
+.icons:hover {
+    color: red;
+}
+.cardbox:hover{
+    /* background-color: red; */
+    /* color: red; */
+    
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+    /* box-shadow: rgba(202, 8, 8, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; */
+    /* box-shadow: rgb(0, 140, 221) 0px 20px 30px -10px; */
+    /* box-shadow: rgba(252, 0, 0, 0.45) 0px 25px 20px -20px; */
+    transition: 0.4s;
+}
+
+/* .cardbox{
+    background-color: rgb(0, 8, 255);
+} */
+.icon-con {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    padding: 7px;
+    background-color: #fff;
+    margin: 7px;
+}
+
+.links {
+    text-decoration: none;
+    font-size: 24px;
+    color: #002f34;
+    font-weight: bold;
+}
+.pcontainer{
+    background-color: red;
+
+}
+.price-text {
+    color: #002f34;
+
+}
+
+.clear-btn {
+    height: 24px;
+    background-color: #002f34;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 12px;
+    outline: none;
+    border: none;
+    padding: 0px 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+}

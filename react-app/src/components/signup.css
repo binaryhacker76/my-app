@@ -1,0 +1,37 @@
+.signupcontainer{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    padding: 10px;
+   
+border-radius: 8px;
+box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(27, 21, 219, 0.22) 0px 15px 12px;
+/* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+    background-color: rgb(8, 70, 70);
+}
+.signupcontainer:hover{
+    box-shadow: rgba(1, 255, 103, 0.56) 0px 22px 70px 4px;
+    background-color: rgb(4, 100, 100);
+
+}
+
+.signupcontainer h2{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.signupcontainer h4{
+    color: aliceblue;
+
+}
+.signupcontainer .log2{
+    color: aliceblue;
+    text-decoration: none;
+    background-color: rgb(30, 102, 236);
+padding: 8px;
+border-radius: 5px;
+position: absolute;
+top:86.5%;
+}

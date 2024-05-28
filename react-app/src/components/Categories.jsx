@@ -13,7 +13,7 @@ function Categories(props) {
                 {categories && categories.length > 0 &&
                     categories.map((item, index) => {
                         return (
-                            <span onClick={() => navigate('/category/' + item)} key={index} className='category'> {item} </span>
+                            <span onClick={() => navigate('category/' + item)} key={index} className='category'> {item} </span>
                         )
                     })}
             </div>
